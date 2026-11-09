@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { Navbar } from "@/components/Layout/Navbar";
 import { Hero } from "@/components/features/landing/Hero";
 import { NonMedicalNotice } from "@/components/features/landing/NonMedicalNotice";
