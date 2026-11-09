@@ -32,3 +32,12 @@ export const footerNav = [
     ],
   },
 ];
+
+// Menu de la zone connectée (barre latérale)
+export const appNav = [
+  { label: "Accueil", href: "/accueil", icon: "/images/icons/accueil.png" },
+  { label: "Ressources", href: "/ressources", icon: "/images/icons/ressources.png" },
+  { label: "Salons d'écoute", href: "/salons", icon: "/images/icons/salons.png" },
+  { label: "Paramètres", href: "/parametres", icon: "/images/icons/parametres.png" },
+  // TODO: "Programme" et "Témoignages" absents de la maquette, à confirmer avec le client
+];
