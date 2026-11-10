@@ -11,6 +11,8 @@
 
   --radius-card: 1rem;
   --shadow-card: 0 2px 8px rgb(0 0 0 / 0.06);
+    /* TODO: remplacer par l'image de profil choisie par l'utilisateur */
+  --color-sun: #f5d04e;
 }
 
 :root {
