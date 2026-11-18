@@ -20,7 +20,7 @@ export const articles: Article[] = [
     title: "Gérer son stress au quotidien",
     category: "Article",
     readingTime: 6,
-    heroImage: "/images/articles/meditation.webp",
+    heroImage: "/images/articles/meditation.jpeg",
     heroAlt: "Une personne médite assise dans l'herbe, entre des arbres",
     intro:
       "Le stress fait partie de notre quotidien. Dans cet article, découvre des conseils pratiques pour mieux gérer tes émotions et retrouver un équilibre dans ton quotidien.",

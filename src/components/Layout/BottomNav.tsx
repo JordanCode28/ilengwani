@@ -25,7 +25,7 @@ export function BottomNav() {
               active ? "bg-surface" : ""
             }`}
           >
-            <Image src={item.icon} alt="" width={24} height={24} />
+            <Image src={item.icon} alt={item.label} width={24} height={24} />
             {item.label}
           </Link>
         );
